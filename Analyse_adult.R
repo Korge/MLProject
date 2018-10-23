@@ -1,0 +1,5 @@
+data <- read.csv("D:/MyBigWorkspace/Machine Learning/ML Project/adult.data",sep=",",header=FALSE)
+names(data) <- c("Age", "Workclass", "fnlwgt", "Education", "Education-Num", "Martial Status", "Occupation", "Relationship", "Race", "Sex", "Capital Gain", "Capital Loss", "Hours per week", "Country", "Target")
+str(data)
+summary(data)
+levels(data$Workclass)
