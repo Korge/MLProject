@@ -12,9 +12,9 @@ y_train = pd.read_csv('y_train')
 y_valid = pd.read_csv('y_valid')
 
 parameters = {
-    'kernel':("linear","poly","rbf","sigmoid"),
-    'gamma':[1e-1,3,5,10],
-    'C':[1e-1,1e0,1e1,1e2]
+    'kernel':("linear","rbf"),
+    'gamma':[1,0.1,0.01,0.001],
+    'C':[1,10,100,1000]
 }
 #
 # mySVM = SVC(max_iter=1500)
