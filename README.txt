@@ -1,14 +1,9 @@
-Projet Machone Learning : Classification de Salaire
-Par Gérard MARIASEELAN et Maxime TOURNADRE
+Projet Machine Learning : Classification de Salaire
 
-Chacun des classifieurs ou ensembles de classifieurs étudiés possède son fichier python dédié.
+Chacun des classifieurs ou ensembles de classifieurs Ã©tudiÃ©s possÃ¨de son fichier python dÃ©diÃ©.
 
-Ces fichiers python permettent de charger les modèles déjà entrainés afin de visualiser leurs performances.
+Ces fichiers python permettent de charger les modÃ¨les dÃ©jÃ  entrainÃ©s afin de visualiser leurs performances.
 
-Il est possible de relancer l'apprentissage en décomentant le code en commentaire.
+Il est possible de relancer l'apprentissage en dÃ©comentant le code en commentaire.
 
-Les fichiers Best, Vote, et autres sont présents afin d'assurer le fonctionnement efficace des fichiers (jeux de données splités, modèles entrainés).
-
-Pour toute question, ne pas hésiter à nous contacter
-mariasselan@et.esiea.fr
-tournadre@et.esiea.fr
+Les fichiers Best, Vote, et autres sont prÃ©sents afin d'assurer le fonctionnement efficace des fichiers (jeux de donnÃ©es splitÃ©s, modÃ¨les entrainÃ©s).
